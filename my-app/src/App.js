@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import ConditionalRenderingClass from './components/ConditionalRenderingClass';
 import ConditionalRenderingFunctional from './components/ConditionalRenderingFunctional';
